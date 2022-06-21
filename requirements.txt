@@ -2,7 +2,7 @@ apiai==1.2.3
 certifi==2018.1.18
 chardet==3.0.4
 idna==2.6
-numpy==1.14.0
+numpy==1.22.0
 pyTelegramBotAPI==3.5.2
 requests==2.18.4
 six==1.11.0
